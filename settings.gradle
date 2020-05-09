@@ -1,0 +1,2 @@
+rootProject.name='AplicacionMenuLateral'
+include ':app'
